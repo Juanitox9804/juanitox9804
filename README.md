@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+  ![me](file:///C:/Users/Juan/Pictures/WhatsApp%20Image%202025-03-31%20at%2006.14.34_459fdf8c.jpg)
+
 
 
 <!--
