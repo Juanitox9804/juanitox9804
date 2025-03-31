@@ -3,7 +3,7 @@
 
 
 
-[![Mi GITHUB]([https://img.icons8.com/ios-filled/50/github.png](https://img.icons8.com/ios-filled/100/github.png))](https://github.com/)
+[![Mi GITHUB](https://img.icons8.com/ios-filled/100/github.png)](https://github.com/)
 [![Mi GITHUB](https://img.icons8.com/plasticine/100/discord-logo.png)]([https://github.com/](https://discord.gg/7vMCPRph))
 
 
