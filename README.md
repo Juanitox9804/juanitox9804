@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-  ![My Dream ]([file:///C:/Users/Juan/Pictures/WhatsApp%20Image%202025-03-31%20at%2006.14.34_459fdf8c.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinuxbasico.com%2Fguia-para-escoger-el-mejor-lenguaje-de-programacion&psig=AOvVaw3ga6AAvMFgOBCs-t3zAT3B&ust=1743522420409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCIuafVtIwDFQAAAAAdAAAAABAE))
+[![Mi GITHUB](https://img.icons8.com/ios-filled/50/github.png)](https://github.com/)
+
 
 
 
