@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Juan Acevedo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 MIS REDES SOCIALES
 
 
